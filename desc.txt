@@ -1,0 +1,15 @@
+Hi,
+
+My name is Venkatesh and i teamed up with Aditya at PennApps to develop a mobile application called 'Social Alarm' a cross platform alarm mobile application which embarrasses(sometimes) you, but wake you up for sure.
+
+When you snooze this alarm,we either push a text message to your friend or push a facebook status.
+
+We also plan to add features to make a group alarm along with your friends and sending a sorry,i will be late email automatically in our next releases.
+
+We used intel xdk, Nexmo API's & regular web technologies to develop this app.
+
+Hope all lazy asses like me love this app :D
+
+Thanks.
+
+Social Alarm
